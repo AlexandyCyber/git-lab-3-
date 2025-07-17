@@ -1,6 +1,6 @@
 <?php
-    each "home"
-    each "product"
-    each "home2"
-    each "product2"
+    each "home";
+    each "product";
+    each "home2";
+    each "product2";
     ?>
